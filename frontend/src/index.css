@@ -45,3 +45,30 @@ button {
 button:hover {
     background-color: #3700b3;
 }
+
+.home-container {
+    text-align: center;
+    padding: 50px;
+}
+
+.home-container h1 {
+    font-size: 2.5em;
+}
+
+.home-container ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.home-container li {
+    margin: 10px 0;
+}
+
+.home-container a {
+    text-decoration: none;
+    color: #6200ea;
+}
+
+.home-container a:hover {
+    color: #3700b3;
+}
